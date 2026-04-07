@@ -1,0 +1,23 @@
+html {
+    font-family: Trebuchet, serif;
+    color: white;
+}
+body {
+    margin: 0;
+    top: 50 px;
+    left: 30 px;
+    right: 30 px;
+    bottom: 50 px;
+}
+section {
+    height: 100 vh;
+    border: 1 px solid lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer{
+    height: 10 vh;
+    text-align: center;
+    padding: 10 px;
+}
