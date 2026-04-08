@@ -1,5 +1,5 @@
-img {  max-width: "50%";
-     height: "auto";
+img {  max-width: "236px";
+     height: "236px";
      object-fit: "cover";
     object-position:"50%" "50%";
         display: "flex"; 
