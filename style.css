@@ -1,0 +1,9 @@
+img {  max-width: "50%";
+     height: auto;
+     object-fit: cover;
+    object-position:"50%" "50%";
+        display: flex; 
+       margin: "10%";
+  padding: "10%";
+    box-shadow: "2px" "2px" "10px" "rgba(0,0,0,0.5)";
+}
